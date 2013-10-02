@@ -1,0 +1,8 @@
+{
+  "name": "title-case-minors",
+  "repository": "git://github.com/ianstormtaylor/title-case-minors.git",
+  "license": "MIT",
+  "version": "0.0.2",
+  "description": "A list of the minor words that shouldn't be capitalized in a title case string.",
+  "keywords": ["title", "case", "titlecase", "string", "minor", "preposition", "article", "conjunction"]
+}

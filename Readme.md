@@ -5,6 +5,7 @@
 ## Installation
 
     $ component install ianstormtaylor/title-case-minors
+    $ npm install title-case-minors
 
 ## Example
 
